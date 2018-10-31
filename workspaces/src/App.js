@@ -20,7 +20,9 @@ class App extends Component {
         </div>
        {/* <button className="mt6">start here</button> */} 
         <SearchPage />
-        <LocationList />
+        <LocationList 
+          
+        />
 
         {/*
         

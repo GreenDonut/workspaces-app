@@ -14,8 +14,6 @@ class LocationCard extends Component {
                             <h4 className="tc">Location Name</h4>
                             <h4 className="tc">Address</h4>
                         </div>   
-                        
-                         
                     </div>
                 </div>
               
